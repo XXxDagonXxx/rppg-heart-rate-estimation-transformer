@@ -193,26 +193,10 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Training
-
-```bash
-python train.py
-```
-
----
-
-## ▶️ Evaluation
-
-```bash
-python evaluate.py
-```
-
----
-
 ## ▶️ Inference
 
 ```bash
-python inference.py
+python inference.py --model _______ --video ________
 ```
 
 ---
